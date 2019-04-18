@@ -1,3 +1,3 @@
 # HelloWorld
 tutorial
-This is the Hello World project. Welcome!
+This is the Hello World project README. Welcome!
